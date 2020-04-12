@@ -62,7 +62,7 @@ function checkResponse(inp){
             return "Great!";
 
         default:
-            return "What are you trying to say?";
+            return "What are you trying to say";
     }
 }
 
