@@ -1,0 +1,32 @@
+#content_btns{
+    position:relative;
+    left:0;
+    opacity:1;
+    transition:opacity 1s, left 1s;
+    margin:10px;
+    cursor:pointer;
+}
+
+body, html {
+    overflow-x:hidden
+}
+
+#index {
+    position:relative;
+    right:0;
+    opacity:1;
+    transition:opacity 1s, right 1s;
+    margin:10px;
+    cursor:pointer;
+    font-size:20pt;
+    margin:10px;
+}
+
+button {
+    padding:10px;
+    margin:5px;
+    border-radius:10px;
+    background-color:lavender;
+    font-size:12pt;
+    cursor:pointer;
+}
